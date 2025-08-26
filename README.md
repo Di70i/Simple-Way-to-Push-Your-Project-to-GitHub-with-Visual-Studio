@@ -1,5 +1,5 @@
 # the-fasted-way-to-push-the-latest-version-of-your-project-in-Visual Studio-
-
+This will help you push your project in GitHub faster with one command only one command to push 
  
 This PowerShell script (`push_git.ps1`) makes it easy to push your project from the **Visual Studio terminal**.
 
